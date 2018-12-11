@@ -1,1 +1,1 @@
-# Introduction to Neural Networks Using Python
+# Introduction to Neural Networks Using Python 3.6
